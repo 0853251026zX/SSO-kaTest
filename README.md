@@ -7,7 +7,7 @@ SSO API Project เป็นโปรเจกต์ที่พัฒนาข�
 
 1.  ดาวน์โหลดโครงสร้างโปรเจกต์จาก GitHub Repository
 ```bash
-    git clone https://github.com/0853251026zX/SSO-kaTest.git
+    git clone https://github.com/TonklaDEV/SSO-kaTest.git
     cd SSO-kaTest 
  ```
 
